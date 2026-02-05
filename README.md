@@ -39,7 +39,7 @@ I am a **Tech Enthusiast** and a dedicated **Computer Science student** currentl
 
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wazed-md-abdul)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazed-jiad/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wazed.JIad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stickydetonate/)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#) *(ID:wxid_t9usmzxt19jx22)*
