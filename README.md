@@ -43,7 +43,7 @@ I am a **Tech Enthusiast** and a dedicated **Computer Science student** currentl
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wazed.JIad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stickydetonate/)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#) *(ID:wxid_t9usmzxt19jx22)*
-
+ 
 
 ---
 ### 🧮 Visitor Count
