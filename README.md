@@ -57,11 +57,7 @@ My passion lies in solving problems through code and building responsive, user-c
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+
 
 ### 🔠 Top Languages
 <p align="center">
