@@ -11,9 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=Problem%20Solving%20Through%20Code&fontSize=30&fontAlignY=40&desc=Developing%20responsive%20web%20solutions&descAlignY=65&descSize=15" />
+  <svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="none" />
+    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#38B2AC">
+      Problem Solving Through Efficient Code
+    </text>
+    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#ffffff">
+      Building responsive, user-centric web experiences
+    </text>
+  </svg>
 </p>
-### 🛠️ My Tech Stack
+🛠️ My Tech Stack
 
 **Languages**
 
