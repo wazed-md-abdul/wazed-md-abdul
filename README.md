@@ -39,6 +39,12 @@ My passion lies in solving problems through code and building responsive, user-c
 * [**Knowledge Vault**](https://github.com/wazed-md-abdul/B13-A01-Knowledge-Vault) - My personal archive of web development resources.
 * [**C Quiz App**](https://github.com/wazed-md-abdul/c_quiz) - A CLI-based interactive quiz system.
 
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&theme=onerdark&color=ff007f&area=true&hide_border=true&point=ffffff" width="100%" />
+</p>
 ---
 
 ### 📫 Connect with me
