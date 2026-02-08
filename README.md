@@ -42,7 +42,25 @@ My passion lies in solving problems through code and building responsive, user-c
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source srcset="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&fire=38B2AC&sideNums=38B2AC&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      <img width="49%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&fire=38B2AC&sideNums=38B2AC&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
 ### 🔠 Top Languages
