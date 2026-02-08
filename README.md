@@ -11,13 +11,18 @@
 </p>
 
 <p align="center">
-  <svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="none" />
-    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#38B2AC">
-      Problem Solving Through Efficient Code
-    </text>
-    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#ffffff">
-      Building responsive, user-centric web experiences
+  <svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#38B2AC" filter="url(#glow)">
+      My passion lies in solving problems through code and building responsive, user-centric web experiences.
     </text>
   </svg>
 </p>
