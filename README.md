@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=850&lines=Solving+complex+problems+through+efficient+code;Building+responsive,+user-centric+web+experiences;Turning+creative+ideas+into+functional+digital+realities" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=Problem%20Solving%20Through%20Code&fontSize=30&fontAlignY=40&desc=Developing%20responsive%20web%20solutions&descAlignY=65&descSize=15" />
 </p>
-
 ### 🛠️ My Tech Stack
 
 **Languages**
@@ -73,9 +72,9 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-    <p/>
+    </p>
   
-</p>
+
 ### 📫 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazedjiad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazed-jiad/)
