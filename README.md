@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahWB" />
 <h1 align="center">👋 Hey, I'm <span style="color:#61dafb">Wazed Jiad</span></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Mastering+Full-Stack+Web+Development+%26+Backend+Architecture;Architecting+scalable+systems+with+Java+and+Modern+JS;Transitioning+towards+AI+%26+Machine+Learning+specialization;Engineering+the+future+through+code+and+innovation+%E2%9C%A8" alt="Typing animation" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
@@ -41,6 +44,7 @@ My passion lies in solving problems through code and building responsive, user-c
 * [**Knowledge Vault**](https://github.com/wazed-md-abdul/B13-A01-Knowledge-Vault) - My personal archive of web development resources.
 * [**C Quiz App**](https://github.com/wazed-md-abdul/c_quiz) - A CLI-based interactive quiz system.
 
+ ![Location](https://img.shields.io/badge/Study--Abroad-China%20West%20Normal%20University-blue?style=for-the-badge&logo=china-railway)
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -54,7 +58,6 @@ My passion lies in solving problems through code and building responsive, user-c
  
 </p>
 
-![snake html](https://github.com/wazed-md-abdul/wazed-md-abdul/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 📈 Contribution Activity
@@ -65,13 +68,11 @@ My passion lies in solving problems through code and building responsive, user-c
 ---
 
 
-### 🔠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Wazed's Top Languages" />
-</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+    <p/>
+  
 </p>
 ### 📫 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazedjiad@gmail.com)
