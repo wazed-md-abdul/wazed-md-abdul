@@ -40,6 +40,16 @@ My passion lies in solving problems through code and building responsive, user-c
 * [**C Quiz App**](https://github.com/wazed-md-abdul/c_quiz) - A CLI-based interactive quiz system.
 
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true&title_color=38B2AC" alt="Wazed's GitHub Stats" />
+</p>
+
+### 🔠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Wazed's Top Languages" />
+</p>
+
 ### 📈 Contribution Activity
 
 <p align="center">
