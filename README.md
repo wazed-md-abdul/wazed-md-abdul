@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    <b>// MISSION STATEMENT</b><br>
+    <b> MISSION STATEMENT</b><br>
     <font color="#38B2AC" size="5">
       "Solving complex problems through code & building responsive web experiences"
     </font>
