@@ -43,7 +43,7 @@ My passion lies in solving problems through code and building responsive, user-c
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&theme=onerdark&color=ff007f&area=true&hide_border=true&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&theme=dracula&color=38b2ac&area=true&hide_border=true&point=38b2ac" width="100%" />
 </p>
 ---
 
