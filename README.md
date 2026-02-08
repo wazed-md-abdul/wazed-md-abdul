@@ -26,6 +26,11 @@ My passion lies in solving problems through code and building responsive, user-c
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,figma,windows,pnpm&perline=8" alt="Tools and Platforms" />
+</p>
+
 ### 📈 Currently Working On
 - 🏗️ Deepening my knowledge in **Java Object-Oriented Programming (OOP)**.
 - 🎨 Creating modern web layouts from **Figma** designs.
