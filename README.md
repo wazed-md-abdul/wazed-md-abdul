@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Location-China%20|%20Bangladesh-blue?style=for-the-badge" />
 </p>
 
-My passion lies in solving problems through code and building responsive, user-centric web experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=850&lines=Solving+complex+problems+through+efficient+code;Building+responsive,+user-centric+web+experiences;Turning+creative+ideas+into+functional+digital+realities" alt="Typing animation" />
+</p>
 
 ### 🛠️ My Tech Stack
 
