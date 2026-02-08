@@ -1,11 +1,12 @@
-# Hi there, I'm Wazed! 👋
+<div align="center"># Hi there, I'm Wazed! 👋</div>  <div align="right-top">![Visitors](https://komarev.com/ghpvc/?username=wazed-md-abdul&color=green&style=for-the-badge)</div>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-China%20|%20Bangladesh-blue?style=for-the-badge" />
 </p>
 
-I am a **Tech Enthusiast** and a dedicated **Computer Science student** currently studying at **China West Normal University**. My passion lies in solving problems through code and building responsive, user-centric web experiences.
+My passion lies in solving problems through code and building responsive, user-centric web experiences.
 
 ### 🛠️ My Tech Stack
 
@@ -46,5 +47,4 @@ I am a **Tech Enthusiast** and a dedicated **Computer Science student** currentl
  
 
 ---
-### 🧮 Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=wazed-md-abdul&color=green&style=for-the-badge)
+
