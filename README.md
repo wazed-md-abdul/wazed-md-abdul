@@ -49,12 +49,7 @@ My passion lies in solving problems through code and building responsive, user-c
     </picture>
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-    </picture>
-  </a>
+ 
 </p>
 
 
