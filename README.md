@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#61dafb">Wazed Jiad</span></h1>
 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-China%20|%20Bangladesh-blue?style=for-the-badge" />
 </p>
@@ -34,6 +34,8 @@ My passion lies in solving problems through code and building responsive, user-c
 - 🧠 Expanding my **JavaScript** logic and problem-solving skills.
 - 🔜 *More coming soon to my knowledge vault...*
 
+**Learning React.js** ![Progress](https://geps.dev/progress/40)
+
 ### 🏛️ Featured Projects
 * [**Techwave Landing Page**](https://github.com/wazed-md-abdul/B-13-A002) - A responsive Figma-to-Code project.
 * [**Knowledge Vault**](https://github.com/wazed-md-abdul/B13-A01-Knowledge-Vault) - My personal archive of web development resources.
@@ -52,12 +54,8 @@ My passion lies in solving problems through code and building responsive, user-c
  
 </p>
 
+![snake html](https://github.com/wazed-md-abdul/wazed-md-abdul/blob/output/github-contribution-grid-snake.svg)
 
-
-### 🔠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</p>
 
 ### 📈 Contribution Activity
 
@@ -66,6 +64,15 @@ My passion lies in solving problems through code and building responsive, user-c
 </p>
 ---
 
+
+### 🔠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&theme=tokyonight&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Wazed's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 ### 📫 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazedjiad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazed-jiad/)
