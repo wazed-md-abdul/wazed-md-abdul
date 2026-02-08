@@ -1,4 +1,5 @@
-<div align="center"># Hi there, I'm Wazed! 👋</div>  <div align="right-top">![Visitors](https://komarev.com/ghpvc/?username=wazed-md-abdul&color=green&style=for-the-badge)</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahWB" />
+<h1 align="center">👋 Hey, I'm <span style="color:#61dafb">Wazed Jiad</span></h1>
 
 
 <p align="left">
