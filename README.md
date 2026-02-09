@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahWB" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazed-md-abdul" />
 <h1 align="center">👋 Hey, I'm <span style="color:#61dafb">Wazed Jiad</span></h1>
 
 <p align="center">
