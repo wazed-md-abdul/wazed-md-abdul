@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#61dafb">Wazed Jiad</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Mastering+Full-Stack+Web+Development+%26+Backend+Architecture;Architecting+scalable+systems+with+Java+and+Modern+JS;Transitioning+towards+AI+%26+Machine+Learning+specialization;Engineering+the+future+through+code+and+innovation+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Mastering+Full-Stack+Web+Development+%26+Backend+Architecture;Architecting+scalable+systems+with+Modern+JS;Transitioning+towards+AI+%26+Machine+Learning+specialization;Engineering+the+future+through+code+and+innovation+%E2%9C%A8" alt="Typing animation" />
 </p>
 
 <p align="center">
