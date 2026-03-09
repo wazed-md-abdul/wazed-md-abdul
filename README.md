@@ -29,7 +29,7 @@
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,daisyui&perline=6" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&perline=6" alt="Frontend Development" />
 
 ### 🛠️ Tools & Platforms
 <p>
