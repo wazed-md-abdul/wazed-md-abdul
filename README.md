@@ -42,7 +42,7 @@
 - 🧠 Expanding my **JavaScript** logic and problem-solving skills.
 - 🔜 *More coming soon to my knowledge vault...*
 
-**Learning React.js** ![Progress](https://geps.dev/progress/40)
+**Learning Next.js** ![Progress](https://geps.dev/progress/60)
 
 ### 🏛️ Featured Projects
 * [**Techwave Landing Page**](https://github.com/wazed-md-abdul/B-13-A002) - A responsive Figma-to-Code project.
