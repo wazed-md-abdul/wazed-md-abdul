@@ -83,7 +83,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ## <span style="color:#38B2AC">📌 What I’m Working On</span>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub trophies" />
 </p>
 
@@ -99,16 +99,16 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ## <span style="color:#38B2AC">📊 GitHub Stats</span>
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&fire=38B2AC&sideNums=38B2AC&sideLabels=38B2AC&dates=cbd5e1&hide_border=true" alt="GitHub streak stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&bg_color=0D1117&title_color=38B2AC&text_color=E2E8F0&icon_color=38B2AC&border_color=38B2AC&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=38B2AC&line=38B2AC&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub quote" />
 </p>
 
@@ -134,13 +134,13 @@ My background is centered on full-stack web development, JavaScript problem-solv
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <sub style="color:#9ca3af">ID: wxid_t9usmzxt19jx22</sub>
 </p>
 
 ---
 
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=footer&text=Thanks%20for%20visiting!&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Wazed%20Jiad%20%C2%B7%20Full-Stack%20Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=9ca3af" alt="Animated footer banner" />
 
