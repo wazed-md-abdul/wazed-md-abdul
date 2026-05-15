@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazed-md-abdul" alt="Visitor badge" />
 
 <div align="center">
@@ -6,22 +7,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Wazed+Jiad;I+am+a+Full-Stack+Web+Developer;I+build+clean%2C+responsive+%26+practical+web+experiences;I+focus+on+design%2C+logic%2C+and+modern+development" alt="Animated intro" />
 
-<h3 style="color:#38B2AC">Who am I?</h3>
+<h3>Who am I?</h3>
 <p>
   I’m a developer who enjoys turning ideas into polished digital products, balancing design sense with strong logic and practical engineering.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-China%20%7C%20Bangladesh-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38B2AC" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Design%20%26%20Development-1D4ED8?style=for-the-badge&logo=codersrank&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learner?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-China%20%7C%20Bangladesh?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Design%20%26%20Development?style=for-the-badge&logo=codersrank" alt="Focus" />
 </p>
 
 </div>
 
 ---
 
-## <span style="color:#38B2AC">🚀 About Me</span>
+## 🚀 About Me
 
 I build responsive web interfaces and practical software with a focus on clean UI, solid logic, and user-friendly experiences.  
 My background is centered on full-stack web development, JavaScript problem-solving, and learning modern tools that improve design and performance.
@@ -33,55 +34,55 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ---
 
-## <span style="color:#38B2AC">🧰 My Skills in SVG Form</span>
+## 🧰 My Skills in SVG Form
 
-### <span style="color:#38B2AC">💻 Languages</span>
+### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-38B2AC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/C++?style=for-the-badge&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python" alt="Python" />
 </p>
 
-### <span style="color:#38B2AC">🎨 Frontend</span>
+### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-38B2AC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-38B2AC?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML?style=for-the-badge&logo=html5" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS?style=for-the-badge&logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js?style=for-the-badge&logo=next.js" alt="Next.js" />
 </p>
 
-### <span style="color:#38B2AC">🗄️ Database Skill</span>
+### 🗄️ Database Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-38B2AC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB?style=for-the-badge&logo=mongodb" alt="MongoDB" />
 </p>
 
-### <span style="color:#38B2AC">🔐 Authentication</span>
+### 🔐 Authentication
 <p align="left">
-  <img src="https://img.shields.io/badge/Better%20Auth-38B2AC?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Better%20Auth?style=for-the-badge&logo=auth0" alt="Better Auth" />
 </p>
 
-### <span style="color:#38B2AC">🖥️ OS Skill</span>
+### 🖥️ OS Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-38B2AC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-38B2AC?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux?style=for-the-badge&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows?style=for-the-badge&logo=windows" alt="Windows" />
 </p>
 
-### <span style="color:#38B2AC">🛠️ Tools & Technologies</span>
+### 🛠️ Tools & Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-38B2AC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-38B2AC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-38B2AC?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/pnpm-38B2AC?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Git?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code?style=for-the-badge&logo=visualstudiocode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma?style=for-the-badge&logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/pnpm?style=for-the-badge&logo=pnpm" alt="pnpm" />
 </p>
 
 ---
 
-## <span style="color:#38B2AC">📌 What I’m Working On</span>
+## 📌 What I’m Working On
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub trophies" />
@@ -97,11 +98,10 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ---
 
-## <span style="color:#38B2AC">📊 GitHub Stats</span>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&fire=38B2AC&sideNums=38B2AC&sideLabels=38B2AC&dates=cbd5e1&hide_border=true" alt="GitHub streak stats" />
-
+  <img width="48%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
@@ -114,28 +114,28 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ---
 
-## <span style="color:#38B2AC">📫 Connect with Me</span>
+## 📫 Connect with Me
 
 <p align="left">
   <a href="mailto:wazedjiad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/wazed-jiad/">
-    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/Wazed.JIad">
-    <img src="https://img.shields.io/badge/Facebook-38B2AC?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/stickydetonate/">
-    <img src="https://img.shields.io/badge/Instagram-38B2AC?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/WeChat-38B2AC?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+    <img src="https://img.shields.io/badge/WeChat?style=for-the-badge&logo=wechat" alt="WeChat" />
   </a>
 </p>
 
 <p align="left">
-  <sub style="color:#9ca3af">ID: wxid_t9usmzxt19jx22</sub>
+  <sub>ID: wxid_t9usmzxt19jx22</sub>
 </p>
 
 ---
@@ -146,6 +146,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 <img src="https://readme-typing-svg.demolab.com?size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Wazed+Jiad;Full-Stack+Web+Developer;Designer%2C+builder%2C+and+problem+solver;Creating+clean+code+and+better+experiences" alt="Animated ending" />
 
-<strong style="color:#38B2AC">Code. Design. Build. Improve.</strong>
+<strong>Code. Design. Build. Improve.</strong>
 
 </div>
+```
