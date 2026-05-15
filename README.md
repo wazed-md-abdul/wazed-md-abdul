@@ -36,7 +36,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 ## <span style="color:#38B2AC">🧰 My Skills in SVG Form</span>
 
 ### <span style="color:#38B2AC">💻 Languages</span>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-38B2AC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -45,7 +45,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 </p>
 
 ### <span style="color:#38B2AC">🎨 Frontend</span>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML-38B2AC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -54,24 +54,24 @@ My background is centered on full-stack web development, JavaScript problem-solv
 </p>
 
 ### <span style="color:#38B2AC">🗄️ Database Skill</span>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-38B2AC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### <span style="color:#38B2AC">🔐 Authentication</span>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Better%20Auth-38B2AC?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
 </p>
 
 ### <span style="color:#38B2AC">🖥️ OS Skill</span>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-38B2AC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-38B2AC?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 ### <span style="color:#38B2AC">🛠️ Tools & Technologies</span>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-38B2AC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-38B2AC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -116,7 +116,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ## <span style="color:#38B2AC">📫 Connect with Me</span>
 
-<p align="center">
+<p align="left">
   <a href="mailto:wazedjiad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
