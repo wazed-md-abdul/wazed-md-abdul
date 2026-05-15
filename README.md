@@ -83,7 +83,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ## <span style="color:#38B2AC">📌 What I’m Working On</span>
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub trophies" />
 </p>
 
@@ -99,7 +99,7 @@ My background is centered on full-stack web development, JavaScript problem-solv
 
 ## <span style="color:#38B2AC">📊 GitHub Stats</span>
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&fire=38B2AC&sideNums=38B2AC&sideLabels=38B2AC&dates=cbd5e1&hide_border=true" alt="GitHub streak stats" />
 
 </p>
