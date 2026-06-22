@@ -109,7 +109,17 @@ const wazed = {
 ## 🏆 Achievements
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+
+[![An image of @wazedmdabdul's Holopin badges](https://holopin.me/wazedmdabdul)](https://holopin.io/@wazedmdabdul)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Commits-Active-38B2AC?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-635BFF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem-Solver-47A248?style=for-the-badge&logo=leetcode&logoColor=white" />
+
 </div>
 
 ---
