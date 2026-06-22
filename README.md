@@ -110,9 +110,6 @@ const wazed = {
 
 <div align="center">
 
-[![An image of @wazedmdabdul's Holopin badges](https://holopin.me/wazedmdabdul)](https://holopin.io/@wazedmdabdul)
-
-<br/>
 
 <img src="https://img.shields.io/badge/Commits-Active-38B2AC?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-635BFF?style=for-the-badge&logo=github&logoColor=white" />
