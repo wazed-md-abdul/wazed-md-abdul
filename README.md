@@ -12,7 +12,6 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/wazed-md-abdul/wazed-md-abdul/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ### 🧠 Who's behind the keyboard?
 
@@ -27,7 +26,9 @@ const wazed = {
 };
 ```
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wazed-md-abdul/wazed-md-abdul/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
 
 ---
 
