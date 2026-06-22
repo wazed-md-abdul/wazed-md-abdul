@@ -1,151 +1,162 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazed-md-abdul" alt="Visitor badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazed-md-abdul&left_color=0d1117&right_color=38B2AC&left_text=Visitors" alt="Visitor badge" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Wazed%20Jiad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=9ca3af" alt="Animated header banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Wazed%20Jiad&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20·%20UI%20Craftsman%20·%20Problem%20Solver&descAlignY=58&descSize=20&descColor=38B2AC&stroke=38B2AC&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Wazed+Jiad;I+am+a+Full-Stack+Web+Developer;I+build+clean%2C+responsive+%26+practical+web+experiences;I+focus+on+design%2C+logic%2C+and+modern+development" alt="Animated intro" />
+<br/>
 
-<h3 style="color:#38B2AC">Who am I?</h3>
-<p>
-  I’m a developer who enjoys turning ideas into polished digital products, balancing design sense with strong logic and practical engineering.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-China%20%7C%20Bangladesh-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38B2AC" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Design%20%26%20Development-1D4ED8?style=for-the-badge&logo=codersrank&logoColor=white" alt="Focus" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Wazed+Jiad+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%8E%AF;Clean+code.+Sharp+design.+Always.+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## <span style="color:#38B2AC">🚀 About Me</span>
+<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-I build responsive web interfaces and practical software with a focus on clean UI, solid logic, and user-friendly experiences.  
-My background is centered on full-stack web development, JavaScript problem-solving, and learning modern tools that improve design and performance.
+### 🧠 Who's behind the keyboard?
 
-- 🎨 I like turning Figma ideas into real interfaces.
-- 🧠 I enjoy logic-heavy coding and backend architecture.
-- ⚙️ I’m currently deepening my Java OOP and Next.js skills.
-- 🌱 I’m also moving toward AI and machine learning foundations.
+```javascript
+const wazed = {
+  name:     "Wazed Jiad",
+  role:     "Full-Stack Web Developer",
+  location: ["China 🇨🇳", "Bangladesh 🇧🇩"],
+  focus:    ["Clean UI", "Solid Architecture", "UX"],
+  learning: ["Next.js", "Java OOP", "AI/ML"],
+  motto:    "Code with purpose. Design with soul."
+};
+```
 
----
-
-## <span style="color:#38B2AC">🧰 My Skills in SVG Form</span>
-
-### <span style="color:#38B2AC">💻 Languages</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-38B2AC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### <span style="color:#38B2AC">🎨 Frontend</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-38B2AC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-38B2AC?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
-
-### <span style="color:#38B2AC">🗄️ Database Skill</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-38B2AC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### <span style="color:#38B2AC">🔐 Authentication</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/Better%20Auth-38B2AC?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
-</p>
-
-### <span style="color:#38B2AC">🖥️ OS Skill</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-38B2AC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-38B2AC?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
-
-### <span style="color:#38B2AC">🛠️ Tools & Technologies</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-38B2AC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-38B2AC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-38B2AC?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/pnpm-38B2AC?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
-</p>
-
----
-
-## <span style="color:#38B2AC">📌 What I’m Working On</span>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-- 🏗️ Strengthening **Java Object-Oriented Programming (OOP)**
-- 🎯 Building polished layouts from **Figma** designs
-- 🔍 Improving **JavaScript** logic and debugging skills
-- ⚡ Learning **Next.js** for faster modern web apps
-- 🗄️ Practicing **MongoDB** data modeling and integration
-- 🔐 Learning **Better Auth** for safer authentication flows
-- 🤖 Exploring **AI / ML** concepts and real-world use cases
-
----
-
-## <span style="color:#38B2AC">📊 GitHub Stats</span>
-
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&fire=38B2AC&sideNums=38B2AC&sideLabels=38B2AC&dates=cbd5e1&hide_border=true" alt="GitHub streak stats" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=38B2AC&line=38B2AC&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub quote" />
-</p>
-
----
-
-## <span style="color:#38B2AC">📫 Connect with Me</span>
-
-<p align="left">
-  <a href="mailto:wazedjiad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/wazed-jiad/">
-    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/Wazed.JIad">
-    <img src="https://img.shields.io/badge/Facebook-38B2AC?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/stickydetonate/">
-    <img src="https://img.shields.io/badge/Instagram-38B2AC?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WeChat-38B2AC?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
-  </a>
-</p>
-
-<p align="left">
-  <sub style="color:#9ca3af">ID: wxid_t9usmzxt19jx22</sub>
-</p>
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=footer&text=Thanks%20for%20visiting!&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Wazed%20Jiad%20%C2%B7%20Full-Stack%20Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=9ca3af" alt="Animated footer banner" />
+## 🛠️ Tech Arsenal
 
-<img src="https://readme-typing-svg.demolab.com?size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Wazed+Jiad;Full-Stack+Web+Developer;Designer%2C+builder%2C+and+problem+solver;Creating+clean+code+and+better+experiences" alt="Animated ending" />
+</div>
 
-<strong style="color:#38B2AC">Code. Design. Build. Improve.</strong>
+### 💬 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🗄️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better_Auth-0F172A?style=for-the-badge&logo=auth0&logoColor=38B2AC" />
+</p>
+
+### 💳 Payment Gateways
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSLCommerz-00A550?style=for-the-badge&logo=cashapp&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+</p>
+
+### 🤖 AI Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-38B2AC?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode_CLI-1A1A2E?style=for-the-badge&logo=terminal&logoColor=00FF88" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=38B2AC&ring=38B2AC&currStreakLabel=38B2AC&sideNums=38B2AC&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&area_color=38B2AC&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Currently Building
+
+```bash
+# Active focus areas
+$ git log --oneline --all
+
+a3f1c2b  🏗️  Mastering Java OOP — deep-diving into design patterns
+d91bc0e  ⚡  Next.js 14 — App Router, Server Components, SSR
+e87a334  🎨  Pixel-perfect Figma → Code conversions
+f2c88d1  🗄️  MongoDB aggregation pipelines & data modeling
+b14e90a  🔐  Better Auth — production-grade auth flows
+9c271ab  🤖  AI/ML foundations — building intuition for the future
+```
+
+---
+
+## 📡 Find Me Online
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-wazedjiad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazedjiad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wazed--jiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazed-jiad/)
+[![Facebook](https://img.shields.io/badge/Facebook-Wazed.JIad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wazed.JIad)
+[![Instagram](https://img.shields.io/badge/Instagram-@stickydetonate-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stickydetonate/)
+[![WeChat](https://img.shields.io/badge/WeChat-wxid__t9usmzxt19jx22-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together%20🚀&descAlignY=65&descSize=16&descColor=38B2AC" alt="Footer" />
 
 </div>
