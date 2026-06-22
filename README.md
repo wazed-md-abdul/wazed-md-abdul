@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/wazed-md-abdul/wazed-md-abdul/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ### 🧠 Who's behind the keyboard?
 
@@ -108,7 +108,7 @@ const wazed = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wazed-md-abdul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
