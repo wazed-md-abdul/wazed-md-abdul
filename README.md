@@ -23,7 +23,6 @@ const wazed = {
   location: ["China 🇨🇳", "Bangladesh 🇧🇩"],
   focus:    ["Clean UI", "Solid Architecture", "UX"],
   learning: ["Next.js", "Java OOP", "AI/ML"],
-  motto:    "Code with purpose. Design with soul."
 };
 ```
 
