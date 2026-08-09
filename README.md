@@ -18,26 +18,12 @@
 
 ```javascript
 const wazed = {
-  name:     "Wazed Jiad",
+  name:     "Md Abdul Wazed",
   role:     "Full-Stack Web Developer",
-  location: ["China", "Bangladesh"],
+  location: ["Bangladesh"],
   focus:    ["Clean UI", "Solid Architecture", "UX"],
-  learning: ["Next.js", "Java OOP", "AI/ML"],
+  learning: ["PostgreSQL", "TypeScript", "Prisma"],
 };
-```
-
-#### Current Focus & Activity
-```bash
-# Active focus areas
-$ git log --oneline --all
-
-a3f1c2b  Mastering Java OOP — deep-diving into design patterns
-d91bc0e  Next.js 14 — App Router, Server Components, SSR
-e87a334  Pixel-perfect Figma → Code conversions
-f2c88d1  MongoDB aggregation pipelines & data modeling
-b14e90a  Better Auth — production-grade auth flows
-9c271ab  AI/ML foundations — building intuition for the future
-```
 
 ---
 
