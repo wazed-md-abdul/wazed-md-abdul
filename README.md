@@ -211,6 +211,3 @@ b14e90a  Better Auth — production-grade auth flows
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=618F7F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together&descAlignY=65&descSize=14&descColor=ffffff" alt="Footer" />
-</div>
