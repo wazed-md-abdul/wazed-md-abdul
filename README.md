@@ -24,6 +24,7 @@ const wazed = {
   focus:    ["Clean UI", "Solid Architecture", "UX"],
   learning: ["PostgreSQL", "TypeScript", "Prisma"],
 };
+```
 
 ---
 
