@@ -1,18 +1,18 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazed-md-abdul&left_color=0d1117&right_color=38B2AC&left_text=Visitors" alt="Visitor badge" />
+<a href="https://github.com/wazed-md-abdul">
+  <img src="banner.png" alt="Wazed Jiad Banner" width="100%" />
+</a>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Wazed%20Jiad&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20·%20UI%20Craftsman%20·%20Problem%20Solver&descAlignY=58&descSize=20&descColor=38B2AC&stroke=38B2AC&strokeWidth=2" alt="Header" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wazed-md-abdul&left_color=0d1117&right_color=618F7F&left_text=Visitors" alt="Visitor Badge" />
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Wazed+Jiad+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%8E%AF;Clean+code.+Sharp+design.+Always.+%E2%9C%A8)](https://git.io/typing-svg)
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=618F7F&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Wazed+Jiad+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%8E%AF;Clean+code.+Sharp+design.+Always.+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
-
 
 ### 🧠 Who's behind the keyboard?
 
@@ -26,111 +26,7 @@ const wazed = {
 };
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wazed-md-abdul/wazed-md-abdul/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-</div>
-
-### 💬 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 🗄️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better_Auth-0F172A?style=for-the-badge&logo=auth0&logoColor=38B2AC" />
-</p>
-
-### 💳 Payment Gateways
-<p>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSLCommerz-00A550?style=for-the-badge&logo=cashapp&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-</p>
-
-### 🤖 AI Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Antigravity_IDE-38B2AC?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode_CLI-1A1A2E?style=for-the-badge&logo=terminal&logoColor=00FF88" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=38B2AC&ring=38B2AC&currStreakLabel=38B2AC&sideNums=38B2AC&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/Commits-Active-38B2AC?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-635BFF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem-Solver-47A248?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&area_color=38B2AC&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 Currently Building
-
+#### 📡 Current Focus & Activity
 ```bash
 # Active focus areas
 $ git log --oneline --all
@@ -145,26 +41,181 @@ b14e90a  🔐  Better Auth — production-grade auth flows
 
 ---
 
-## 📡 Find Me Online
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wazed-md-abdul/wazed-md-abdul/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💬 Languages
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
+### 🗄️ Backend, Database & Auth
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/mongoose" alt="Mongoose" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.better-auth.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/auth0" alt="Better Auth" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
+### 💳 Integrations & Payments
+<p align="left">
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://sslcommerz.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/cashapp" alt="SSLCommerz" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
+### ⚙️ Automation, Tools & Environment
+<p align="left">
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/git" alt="Git" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/pnpm" alt="pnpm" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
+### 🤖 AI Dev Partners
+<p align="left">
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/claude" alt="Claude Code" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/cursor" alt="Cursor AI" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googlegemini" alt="Antigravity IDE / Gemini" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=618F7F&icon_color=618F7F&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=618F7F&ring=618F7F&currStreakLabel=618F7F&sideNums=618F7F&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=618F7F&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-wazedjiad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazedjiad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wazed--jiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazed-jiad/)
-[![Facebook](https://img.shields.io/badge/Facebook-Wazed.JIad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wazed.JIad)
-[![Instagram](https://img.shields.io/badge/Instagram-@stickydetonate-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stickydetonate/)
-[![WeChat](https://img.shields.io/badge/WeChat-wxid__t9usmzxt19jx22-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+<br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-618F7F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-618F7F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-618F7F?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-618F7F?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem-Solver-618F7F?style=for-the-badge&logo=leetcode&logoColor=white" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=c9d1d9&authorColor=618F7F&backgroundColor=0D1117&symbolColor=618F7F" alt="Dev Quote" />
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+---
 
-<br/><br/>
+## 📡 Find Me Online
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together%20🚀&descAlignY=65&descSize=16&descColor=38B2AC" alt="Footer" />
+<div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-wazedjiad@gmail.com-618F7F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazedjiad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wazed--jiad-618F7F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazed-jiad/)
+[![Facebook](https://img.shields.io/badge/Facebook-Wazed.JIad-618F7F?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wazed.JIad)
+[![Instagram](https://img.shields.io/badge/Instagram-@stickydetonate-618F7F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stickydetonate/)
+[![WeChat](https://img.shields.io/badge/WeChat-wxid__t9usmzxt19jx22-618F7F?style=for-the-badge&logo=wechat&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=618F7F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together%20🚀&descAlignY=65&descSize=14&descColor=ffffff" alt="Footer" />
 </div>
