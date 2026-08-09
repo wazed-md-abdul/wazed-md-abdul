@@ -9,34 +9,34 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=618F7F&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Wazed+Jiad+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%8E%AF;Clean+code.+Sharp+design.+Always.+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=618F7F&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Wazed+Jiad;Full-Stack+Web+Developer;Turning+ideas+into+real+products;Clean+code.+Sharp+design.+Always." alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧠 Who's behind the keyboard?
+### Who's behind the keyboard?
 
 ```javascript
 const wazed = {
   name:     "Wazed Jiad",
   role:     "Full-Stack Web Developer",
-  location: ["China 🇨🇳", "Bangladesh 🇧🇩"],
+  location: ["China", "Bangladesh"],
   focus:    ["Clean UI", "Solid Architecture", "UX"],
   learning: ["Next.js", "Java OOP", "AI/ML"],
 };
 ```
 
-#### 📡 Current Focus & Activity
+#### Current Focus & Activity
 ```bash
 # Active focus areas
 $ git log --oneline --all
 
-a3f1c2b  🏗️  Mastering Java OOP — deep-diving into design patterns
-d91bc0e  ⚡  Next.js 14 — App Router, Server Components, SSR
-e87a334  🎨  Pixel-perfect Figma → Code conversions
-f2c88d1  🗄️  MongoDB aggregation pipelines & data modeling
-b14e90a  🔐  Better Auth — production-grade auth flows
-9c271ab  🤖  AI/ML foundations — building intuition for the future
+a3f1c2b  Mastering Java OOP — deep-diving into design patterns
+d91bc0e  Next.js 14 — App Router, Server Components, SSR
+e87a334  Pixel-perfect Figma → Code conversions
+f2c88d1  MongoDB aggregation pipelines & data modeling
+b14e90a  Better Auth — production-grade auth flows
+9c271ab  AI/ML foundations — building intuition for the future
 ```
 
 ---
@@ -47,9 +47,9 @@ b14e90a  🔐  Better Auth — production-grade auth flows
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
-### 💬 Languages
+### Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40" style="margin-right: 8px;" />
@@ -71,7 +71,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
   </a>
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40" style="margin-right: 8px;" />
@@ -83,7 +83,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
     <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40" style="margin-right: 8px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="40" height="40" style="margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 8px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40" style="margin-right: 8px;" />
@@ -93,7 +93,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
   </a>
 </p>
 
-### 🗄️ Backend, Database & Auth
+### Backend, Database & Auth
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40" style="margin-right: 8px;" />
@@ -118,7 +118,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
   </a>
 </p>
 
-### 💳 Integrations & Payments
+### Integrations & Payments
 <p align="left">
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="40" height="40" style="margin-right: 8px;" />
@@ -128,7 +128,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
   </a>
 </p>
 
-### ⚙️ Automation, Tools & Environment
+### Automation, Tools & Environment
 <p align="left">
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40" style="margin-right: 8px;" />
@@ -140,7 +140,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
     <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="40" height="40" style="margin-right: 8px;" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="40" height="40" style="margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40" style="margin-right: 8px;" />
@@ -150,7 +150,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
   </a>
 </p>
 
-### 🤖 AI Dev Partners
+### AI Dev Partners
 <p align="left">
   <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/claude" alt="Claude Code" width="40" height="40" style="margin-right: 8px;" />
@@ -165,15 +165,10 @@ b14e90a  🔐  Better Auth — production-grade auth flows
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wazed-md-abdul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=618F7F&icon_color=618F7F&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=618F7F&ring=618F7F&currStreakLabel=618F7F&sideNums=618F7F&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-md-abdul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=618F7F&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=618F7F&ring=618F7F&currStreakLabel=618F7F&sideNums=618F7F&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -188,7 +183,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
@@ -202,7 +197,7 @@ b14e90a  🔐  Better Auth — production-grade auth flows
 
 ---
 
-## 📡 Find Me Online
+## Find Me Online
 
 <div align="center">
 
@@ -217,5 +212,5 @@ b14e90a  🔐  Better Auth — production-grade auth flows
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=618F7F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together%20🚀&descAlignY=65&descSize=14&descColor=ffffff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=618F7F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together&descAlignY=65&descSize=14&descColor=ffffff" alt="Footer" />
 </div>
