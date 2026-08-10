@@ -155,7 +155,7 @@ const wazed = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=618F7F&ring=618F7F&currStreakLabel=618F7F&sideNums=618F7F&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br/>
