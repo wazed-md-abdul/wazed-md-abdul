@@ -173,7 +173,7 @@ const wazed = {
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&transparent&transparent&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
