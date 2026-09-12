@@ -105,6 +105,16 @@ const wazed = {
   </a>
 </p>
 
+### Cloud & BaaS
+<p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/appwrite" alt="Appwrite" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+</p>
+
 ### Integrations & Payments
 <p align="left">
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
@@ -139,14 +149,17 @@ const wazed = {
 
 ### AI Dev Partners
 <p align="left">
-  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/claude" alt="Claude Code" width="40" height="40" style="margin-right: 8px;" />
+  <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
+    <img src="antigravity-icon.png" alt="Antigravity IDE" width="40" height="40" style="margin-right: 8px;" />
   </a>
   <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/cursor" alt="Cursor AI" width="40" height="40" style="margin-right: 8px;" />
   </a>
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/claude" alt="Claude Code" width="40" height="40" style="margin-right: 8px;" />
+  </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/googlegemini" alt="Antigravity IDE / Gemini" width="40" height="40" style="margin-right: 8px;" />
+    <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="40" height="40" style="margin-right: 8px;" />
   </a>
 </p>
 
