@@ -14,7 +14,7 @@
 
 ---
 
-### Who's behind the keyboard?
+<img src="assets/headers/whos-behind-the-keyboard.svg" alt="Who's behind the keyboard?" height="28" />
 
 ```javascript
 const wazed = {
@@ -34,9 +34,11 @@ const wazed = {
 
 ---
 
-## Tech Arsenal
+<img src="assets/headers/tech-arsenal.svg" alt="Tech Arsenal" height="38" />
 
-### Languages
+<br/>
+
+<img src="assets/headers/languages.svg" alt="Languages" height="26" />
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40" style="margin-right: 8px;" />
@@ -58,7 +60,7 @@ const wazed = {
   </a>
 </p>
 
-### Frontend
+<img src="assets/headers/frontend.svg" alt="Frontend" height="26" />
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40" style="margin-right: 8px;" />
@@ -80,7 +82,7 @@ const wazed = {
   </a>
 </p>
 
-### Backend, Database & Auth
+<img src="assets/headers/backend-database-auth.svg" alt="Backend, Database & Auth" height="26" />
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40" style="margin-right: 8px;" />
@@ -105,7 +107,7 @@ const wazed = {
   </a>
 </p>
 
-### Cloud & BaaS
+<img src="assets/headers/cloud-baas.svg" alt="Cloud & BaaS" height="26" />
 <p align="left">
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40" style="margin-right: 8px;" />
@@ -115,7 +117,7 @@ const wazed = {
   </a>
 </p>
 
-### Integrations & Payments
+<img src="assets/headers/integrations-payments.svg" alt="Integrations & Payments" height="26" />
 <p align="left">
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="40" height="40" style="margin-right: 8px;" />
@@ -125,7 +127,7 @@ const wazed = {
   </a>
 </p>
 
-### Automation, Tools & Environment
+<img src="assets/headers/automation-tools-environment.svg" alt="Automation, Tools & Environment" height="26" />
 <p align="left">
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40" style="margin-right: 8px;" />
@@ -147,7 +149,7 @@ const wazed = {
   </a>
 </p>
 
-### AI Dev Partners
+<img src="assets/headers/ai-dev-partners.svg" alt="AI Dev Partners" height="26" />
 <p align="left">
   <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
     <img src="antigravity-icon.png" alt="Antigravity IDE" width="40" height="40" style="margin-right: 8px;" />
@@ -165,7 +167,7 @@ const wazed = {
 
 ---
 
-## GitHub Stats
+<img src="assets/headers/github-stats.svg" alt="GitHub Stats" height="38" />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=wazed-md-abdul&theme=tokyonight&hide_border=true&background=0D1117&fire=618F7F&ring=618F7F&currStreakLabel=618F7F&sideNums=618F7F&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
@@ -183,7 +185,7 @@ const wazed = {
 
 ---
 
-## Contribution Activity
+<img src="assets/headers/contribution-activity.svg" alt="Contribution Activity" height="38" />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
@@ -197,7 +199,7 @@ const wazed = {
 
 ---
 
-## Find Me Online
+<img src="assets/headers/find-me-online.svg" alt="Find Me Online" height="38" />
 
 <div align="center">
 

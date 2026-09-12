@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 42" width="400" height="42" fill="none">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#618F7F">
+        <animate attributeName="stop-color" values="#618F7F;#A3D9C9;#618F7F" dur="3.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#88C2AF">
+        <animate attributeName="stop-color" values="#88C2AF;#E3F8F2;#88C2AF" dur="3.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#618F7F">
+        <animate attributeName="stop-color" values="#618F7F;#A3D9C9;#618F7F" dur="3.5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="line-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#618F7F" stop-opacity="0.9">
+        <animate attributeName="stop-opacity" values="0.9;0.35;0.9" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="65%" stop-color="#618F7F" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#618F7F" stop-opacity="0" />
+    </linearGradient>
+    <filter id="subtle-glow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="1.5" flood-color="#618F7F" flood-opacity="0.35" />
+    </filter>
+  </defs>
+  <text x="0" y="24" font-family="'Fira Code', 'JetBrains Mono', Consolas, -apple-system, sans-serif" font-size="22" font-weight="700" fill="url(#shimmer)" filter="url(#subtle-glow)" letter-spacing="0.2px"><tspan fill="#618F7F" fill-opacity="0.85">## </tspan><tspan fill="url(#shimmer)">Contribution Activity</tspan></text>
+  <rect x="0" y="34" width="260" height="2.5" rx="1.25" fill="url(#line-glow)">
+    <animate attributeName="width" values="208;299;208" dur="3.5s" repeatCount="indefinite" />
+  </rect>
+</svg>

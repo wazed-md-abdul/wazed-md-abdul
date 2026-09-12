@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 30" width="340" height="30" fill="none">
+  <defs>
+    <linearGradient id="h3-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#618F7F">
+        <animate attributeName="stop-color" values="#618F7F;#9DD4C4;#618F7F" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#7DB5A3">
+        <animate attributeName="stop-color" values="#7DB5A3;#E0F6F0;#7DB5A3" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#618F7F">
+        <animate attributeName="stop-color" values="#618F7F;#9DD4C4;#618F7F" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="0" y="20" font-family="'Fira Code', 'JetBrains Mono', Consolas, -apple-system, sans-serif" font-size="17" font-weight="600" fill="url(#h3-shimmer)" letter-spacing="0.2px"><tspan fill="#618F7F" fill-opacity="0.9">❯ </tspan><tspan fill="url(#h3-shimmer)">Frontend</tspan></text>
+</svg>
