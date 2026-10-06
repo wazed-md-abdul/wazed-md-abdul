@@ -22,7 +22,7 @@ const wazed = {
   role:     "Full-Stack Web Developer",
   location: ["Bangladesh"],
   focus:    ["Clean UI", "Solid Architecture", "UX"],
-  learning: ["PostgreSQL", "TypeScript", "Prisma"],
+  learning: ["PostgreSQL", "Nestjs", "Prisma"],
 };
 ```
 
@@ -86,6 +86,9 @@ const wazed = {
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="40" height="40" style="margin-right: 8px;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 8px;" />
@@ -188,7 +191,7 @@ const wazed = {
 <img src="assets/headers/contribution-activity.svg" alt="Contribution Activity" height="38" />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazed-md-abdul&bg_color=0D1117&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/wazed-md-abdul/wazed-md-abdul/output/activity-graph.svg" width="100%" alt="Contribution Graph" />
 </div>
 
 ---

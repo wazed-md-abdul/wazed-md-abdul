@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake and Activity Graph
 
 on:
   schedule:
@@ -10,6 +10,8 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -21,6 +23,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Activity Graph SVG
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: wazed-md-abdul
+          options: bg_color=0D1117&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
