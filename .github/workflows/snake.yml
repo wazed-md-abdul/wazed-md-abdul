@@ -16,14 +16,6 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: wazed-md-abdul
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: Generate Activity Graph SVG
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -31,6 +23,14 @@ jobs:
           options: bg_color=0D1117&color=618F7F&line=618F7F&point=FFFFFF&area=true&area_color=618F7F&hide_border=true&radius=8
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: wazed-md-abdul
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
